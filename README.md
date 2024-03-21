@@ -1,6 +1,6 @@
 # aidlinkrev2
 
-Emergency rescue app prototype made for SiH - 2023
+Emergency rescue app prototype with google maps api made for SiH - 2023
 
 <div style="display: flex; justify-content: center;">
     <div style="display: flex; flex-direction: column; align-items: center;">
